@@ -1,0 +1,17 @@
+.Header {
+    height: 100%;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.Header > h1 {
+    font-weight: bolder;
+    font-size: 200%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.Header > a {
+    color: lightseagreen;
+    font-weight: bolder;
+    font-size: 1.5rem;
+}

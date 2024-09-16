@@ -1,0 +1,22 @@
+html,
+body,
+#root,
+textarea {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    text-align: center;
+    font-style: italic;
+    color: rgb(0, 0, 0);
+    background-color: white;
+}
+
+#root {
+    min-height: 100%;
+    height: 100%;
+}
+
+a {
+    color: rgb(190, 62, 62);
+    ;
+}

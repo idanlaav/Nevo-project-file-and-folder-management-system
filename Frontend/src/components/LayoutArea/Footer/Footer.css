@@ -1,0 +1,11 @@
+.Footer {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.Footer > h5 {
+    font-weight:lighter;
+    font-size: medium;
+}
